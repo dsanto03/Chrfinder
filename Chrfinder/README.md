@@ -1,7 +1,4 @@
-![Project Logo](assets/Image_chrfinder.webp)
 ## chrfinder
-
-The code helps the users to chose the best chromatography to separate and analyze a given mixture.
 
 ## 🔥 Usage
 
