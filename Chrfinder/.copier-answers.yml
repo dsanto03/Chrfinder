@@ -3,7 +3,7 @@ _commit: 66fd52c
 _src_path: gh:schwallergroup/copier-liac-minimal
 author_email: diogo.santosmartins@epfl.ch
 author_name: Diogo Santos Martins
-github_org: dsantos03
+github_org: dsanto03
 package_name: chrfinder
 project_name: chrfinder
 short_description: The code helps the users to chose the best chromatography to separate
