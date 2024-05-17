@@ -2,7 +2,7 @@
   <img src="Chrfinder/assets/Image_chrfinder.webp" alt="Project Logo" width="650"/>
 </p>
 
-# Chrfinder
+# chrfinder
 
 ## Project overview
 
