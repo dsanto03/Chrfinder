@@ -6,9 +6,9 @@ Welcome to **Chrfinder**! This project automates the selection of the most suita
 
 ## ✅ Benefits
 
-- **🚀Efficiency**: Automates the property retrieval and decision-making process, saving time and reducing manual effort.
-- **🎯Accuracy**: Utilizes precise physicochemical data to ensure the most suitable chromatography technique is chosen.
-- **🌐Versatility**: Supports a wide range of organic compounds and chromatography methods.
+- **🚀 Efficiency**: Automates the property retrieval and decision-making process, saving time and reducing manual effort.
+- **🎯 Accuracy**: Utilizes precise physicochemical data to ensure the most suitable chromatography technique is chosen.
+- **🌐 Versatility**: Supports a wide range of organic compounds and chromatography methods.
 
 ## 🫱🏽‍🫲🏼 Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
