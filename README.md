@@ -2,7 +2,7 @@
 
 ## Project overview
 
-Welcome to **Chrfinder**! This project automates the selection of the most suitable chromatography technique for analyzing a given mixture of organic compounds. By simply providing the names of the molecules in the mixture, the code retrieves their physicochemical properties from various web sources and determines the optimal chromatography method based on these properties.
+Welcome to **Chrfinder**! This project automates the selection of the most suitable chromatography technique for separating and analyzing a given mixture of organic compounds. By simply providing the names of the molecules in the mixture, the code retrieves their physicochemical properties from various web sources and determines the optimal chromatography method based on these properties.
 
 ## ✅ Benefits
 
